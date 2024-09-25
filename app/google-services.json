@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304497467933",
+    "project_id": "authapp-f8561",
+    "storage_bucket": "authapp-f8561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304497467933:android:35ce31d7eb0872b4535cf4",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjjNEHBn8HJjKTiTbuYsiaK32V-CpCvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
